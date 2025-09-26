@@ -146,17 +146,11 @@ Once affixed to a melee weapon, the first successful weapon Strike made with it 
 
 ## Grenade
 
-**Traits** Uncommon, Bomb, Consumable, [Grenade^](/Traits/README.md#grenade), [Tech^](/Traits/README.md#tech)
+**Traits** Uncommon, Consumable, [Grenade^](/Traits/README.md#grenade), [Tech^](/Traits/README.md#tech)
 
 **Hands** 1; **Bulk** L; **Craft DC** 20
 
-Grenades are explosives that can be thrown anywhere within 60 feet, with an area of effect as a 20-foot burst. However it is similar to beads on a *[necklace of fireballs](http://2e.aonprd.com/Equipment.aspx?ID=449)* where if it is a particularly difficult situation the GM may ask you to make an attack roll (treat as a bomb: martial proficiency with a 20 foot range increment).
-
-Grenades need to be armed before activating, and go off at the start of the user's next turn after being primed - regardless if it has been thrown or not. When a grenade goes off, targets in the area of effect usually have to make a basic Reflex save; the DC and effect depends on the grenade.
-
-**Activate** (1 action) Interact; **Effect** You arm the grenade. It will activate at the start of your next turn, whether you have thrown it or not.
-
-**Activate** (1 action) Interact (ranged); **Effect** You toss the grenade at any area within 60 feet. If this action is disrupted - such as by a critical hit from an [Attack of Opportunity](http://2e.aonprd.com/Actions.aspx?ID=8) - you drop the grenade on the ground directly beneath you.
+An item with the grenade trait can be thrown with a range of 70 feet using the Area Fire action as though it had the area (burst) trait at the listed radius using a single action instead of two actions. Grenades are simple thrown weapons that are expended when used. If you apply the critical specialization effect of grenades, apply the grenade's listed effect to each creature that rolls a critical failure against the grenade's effects. Unlike most weapons, grenades can bounce off a solid surface (not a creature) once without exploding. This allows for grenades to move in a straight line toward a solid surface, then move up to their remaining distance in another straight line from that point, potentially even bouncing out of line of sight.
 
 Here is a list of the various kinds of grenades and their effects.
 
