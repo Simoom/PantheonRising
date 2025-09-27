@@ -2,14 +2,6 @@
 
 New traits will be indicated with a carat (^) and are linked to their explanation.
 
-## Battery
-
-**Traits** [Tech^](/Traits/README.md#tech)
-
-**Price** 10 gp; **Bulk** -
-
-A battery contains 10 charges when full. It is a single Interact action to insert or eject a battery from an item. Much like a [repeating](http://2e.aonprd.com/Traits.aspx?ID=374) weapon, it is often 3 Interact actions to replace an empty battery (eject used battery, retrieve new battery, insert new battery). When recharging a battery at a generator, roll a DC 4 flat check. On a failure, the battery is destroyed and becomes a useless silverdisk.
-
 ## Commset
 
 **Traits** Rare, [Signal^](/Traits/README.md#signal), [Tech^](/Traits/README.md#tech)
@@ -27,14 +19,6 @@ A commset's power is provided by a [battery^](#battery). A fully charged battery
 When a message is broadcast on a commset, all other active commsets tuned to the same frequency within 1 mile will play the broadcasted message. Activating or deactivating a commset is a single interact action, and the commset uses 1 charge of power for each hour it remains active. Inactive commsets will not receive, play or broadcast messages.
 
 Broadcasting a message on a commset records video and audio footage of the creature doing so.
-
-## Chemalyzer
-
-**Traits** Rare, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
-
-**Level** 5; **Price** 150 gp; **Hands** 1; **Bulk** 1; **Capacity** 10; **Power Use** 1 charge/use; **Craft DC** 25
-
-When used it grants a +2 item bonus to any Identify Alchemy and Identify Pharmaceutical checks. It cannot aid in the identification of magical effects or substances (like potions) but it does work on Alchemical Elixirs. This cannot be used in lieu of [Alchemist's tools](https://2e.aonprd.com/Equipment.aspx?ID=2).
 
 ## Cylex
 
