@@ -2,14 +2,6 @@
 
 New traits will be indicated with a carat (^) and are linked to their explanation.
 
-## Battery
-
-**Traits** [Tech^](/Traits/README.md#tech)
-
-**Price** 10 gp; **Bulk** -
-
-A battery contains 10 charges when full. It is a single Interact action to insert or eject a battery from an item. Much like a [repeating](http://2e.aonprd.com/Traits.aspx?ID=374) weapon, it is often 3 Interact actions to replace an empty battery (eject used battery, retrieve new battery, insert new battery). When recharging a battery at a generator, roll a DC 4 flat check. On a failure, the battery is destroyed and becomes a useless silverdisk.
-
 ## Commset
 
 **Traits** Rare, [Signal^](/Traits/README.md#signal), [Tech^](/Traits/README.md#tech)
@@ -27,14 +19,6 @@ A commset's power is provided by a [battery^](#battery). A fully charged battery
 When a message is broadcast on a commset, all other active commsets tuned to the same frequency within 1 mile will play the broadcasted message. Activating or deactivating a commset is a single interact action, and the commset uses 1 charge of power for each hour it remains active. Inactive commsets will not receive, play or broadcast messages.
 
 Broadcasting a message on a commset records video and audio footage of the creature doing so.
-
-## Chemalyzer
-
-**Traits** Rare, [Powered^](/Traits/README.md#powered), [Tech^](/Traits/README.md#tech)
-
-**Level** 5; **Price** 150 gp; **Hands** 1; **Bulk** 1; **Capacity** 10; **Power Use** 1 charge/use; **Craft DC** 25
-
-When used it grants a +2 item bonus to any Identify Alchemy and Identify Pharmaceutical checks. It cannot aid in the identification of magical effects or substances (like potions) but it does work on Alchemical Elixirs. This cannot be used in lieu of [Alchemist's tools](https://2e.aonprd.com/Equipment.aspx?ID=2).
 
 ## Cylex
 
@@ -146,17 +130,11 @@ Once affixed to a melee weapon, the first successful weapon Strike made with it 
 
 ## Grenade
 
-**Traits** Uncommon, Bomb, Consumable, [Grenade^](/Traits/README.md#grenade), [Tech^](/Traits/README.md#tech)
+**Traits** Uncommon, Consumable, [Grenade^](/Traits/README.md#grenade), [Tech^](/Traits/README.md#tech)
 
 **Hands** 1; **Bulk** L; **Craft DC** 20
 
-Grenades are explosives that can be thrown anywhere within 60 feet, with an area of effect as a 20-foot burst. However it is similar to beads on a *[necklace of fireballs](http://2e.aonprd.com/Equipment.aspx?ID=449)* where if it is a particularly difficult situation the GM may ask you to make an attack roll (treat as a bomb: martial proficiency with a 20 foot range increment).
-
-Grenades need to be armed before activating, and go off at the start of the user's next turn after being primed - regardless if it has been thrown or not. When a grenade goes off, targets in the area of effect usually have to make a basic Reflex save; the DC and effect depends on the grenade.
-
-**Activate** (1 action) Interact; **Effect** You arm the grenade. It will activate at the start of your next turn, whether you have thrown it or not.
-
-**Activate** (1 action) Interact (ranged); **Effect** You toss the grenade at any area within 60 feet. If this action is disrupted - such as by a critical hit from an [Attack of Opportunity](http://2e.aonprd.com/Actions.aspx?ID=8) - you drop the grenade on the ground directly beneath you.
+An item with the grenade trait can be thrown with a range of 70 feet using the Area Fire action as though it had the area (burst) trait at the listed radius using a single action instead of two actions. Grenades are simple thrown weapons that are expended when used. If you apply the critical specialization effect of grenades, apply the grenade's listed effect to each creature that rolls a critical failure against the grenade's effects. Unlike most weapons, grenades can bounce off a solid surface (not a creature) once without exploding. This allows for grenades to move in a straight line toward a solid surface, then move up to their remaining distance in another straight line from that point, potentially even bouncing out of line of sight.
 
 Here is a list of the various kinds of grenades and their effects.
 
